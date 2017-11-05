@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Graf>
+	<Edge DeparturePointId = "1"  ArrivalPointId = "2" Price = "4"></Edge>
+	<Edge DeparturePointId = "1"  ArrivalPointId = "3" Price = "7"></Edge>
+	<Edge DeparturePointId = "1"  ArrivalPointId = "4" Price = "3"></Edge>
+	<Edge DeparturePointId = "2"  ArrivalPointId = "3" Price = "3"></Edge>
+	<Edge DeparturePointId = "2"  ArrivalPointId = "5" Price = "2"></Edge>
+	<Edge DeparturePointId = "4"  ArrivalPointId = "5" Price = "3"></Edge>
+	<Edge DeparturePointId = "3"  ArrivalPointId = "6" Price = "2"></Edge>
+	<Edge DeparturePointId = "5"  ArrivalPointId = "6" Price = "2"></Edge>
+</Graf>
